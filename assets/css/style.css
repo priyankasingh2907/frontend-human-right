@@ -44,4 +44,6 @@ a{
 text-decoration: none;
 color: var(--secondary_bg);
 }
-
+._ong{
+    color: #EC8305;
+}
