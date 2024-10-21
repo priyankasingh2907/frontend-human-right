@@ -166,6 +166,7 @@ img {
 }
 
 .theme-btn {
+  margin-top: 5px;
     background: #fff;
     border: 1px solid #e67a0a;
     padding: .375rem .75rem;
