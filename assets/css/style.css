@@ -57,7 +57,13 @@ p{
 }
 ._color_white{
     color: var(--secondary_bg);
-}  .col {
+}
+._color_white li a{
+    color: #eaeef0;
+    font-size: 13px;
+
+}
+.col {
     text-align: center;
 }
 
