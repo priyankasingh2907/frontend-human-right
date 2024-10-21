@@ -354,3 +354,9 @@ a{
     color: var(--bg);
     font-size: 10px;
   }
+  footer a span{
+    color: rgb(189, 188, 186);
+    font-size: 24px;
+    margin-left: 10px;
+  }
+  
