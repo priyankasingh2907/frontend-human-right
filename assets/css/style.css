@@ -393,6 +393,7 @@ a{
       text-align: center;
 
   }
+  
 }
  
 @media screen and (max-width: 992px) {
@@ -401,33 +402,31 @@ a{
       text-align: center;
       
   }
+  .phn-nn {
+    display: none;
+  }
+  .phn-dis{
+    display: block;
+  }
+ 
 } @media screen and (max-width: 768px) {
   body {
       font-size: 12px;
       text-align: center;
       
   }
+  .phn-nn {
+    display: none;
+  }
+  .phn-dis{
+    display: block;
+  }
 } @media screen and (max-width: 576px) {
-  body {
-      font-size: 12px;
-      text-align: center;
-      
-  }
-  .banner{
-    width: 100%;
-
-  }
-  .banner div{
-    width: 100%;
-    /* height: 20vh; */
-  }
-  .banner >div img {
-    width: 100%;
-    height: 30vh;
-  }
-  .menu{
-    display: hidden;
-  }
-
+.phn-nn {
+  display: none;
+}
+.phn-dis{
+  display: block;
+}
 }
 
